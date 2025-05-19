@@ -1,6 +1,6 @@
-# API Programmer Assignment - Nutech Integrasi
+# API Programmer Assignment
 
-This project is part of a technical test assignment for the API Programmer position at Nutech Integrasi.
+This project is part of a technical test assignment for the Node JS Developer position.
 
 ## 📦 Tech Stack
 
@@ -37,11 +37,6 @@ It contains 3 main tables:
 
 The API is deployed on Railway and accessible via:  
 🔗 https://api-assignment-production.up.railway.app
-
-## 📄 API Documentation
-
-The API contract is based on Swagger:  
-🔗 [https://api-doc-tht.nutech-integrasi.com](https://api-doc-tht.nutech-integrasi.com)
 
 ## 👨‍💻 Author
 
